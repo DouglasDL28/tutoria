@@ -10,3 +10,7 @@ Esto es un cambio.
     Descripcion ...
 
 Esta es la funcionalidad que estoy trabajando en la rama.
+
+Segundo cambio por el avatar.
+
+    Descripcion ...
