@@ -7,3 +7,7 @@ Descripcion:
 Esto es un cambio.
 
     Descripcion ...
+
+Segundo cambio por el avatar.
+
+    Descripcion ...
